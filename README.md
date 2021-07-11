@@ -1,4 +1,4 @@
-A custom IDE
+A Custom IDE
 =============
 
 My custom IDE
