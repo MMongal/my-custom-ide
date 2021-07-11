@@ -1,4 +1,4 @@
-My-first-repo
+A custom IDE
 =============
 
-My first repo
+My custom IDE
