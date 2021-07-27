@@ -46,7 +46,7 @@ def open_file():
 # captures the output and error from the process
 # and passes them to the code_output to be displayed
 def run():
-	command = f'python {file_path}'
+	command = f'python3 {file_path}'
 	process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=True)
 	output, error = process.communicate()
 	code_output.delete(1.0, END)
